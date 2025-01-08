@@ -1,0 +1,12 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bagus",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  },
+  "scripts": {}
+}
